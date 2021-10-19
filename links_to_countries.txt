@@ -1,0 +1,250 @@
+1 : For the country Aruba link - https://en.wikipedia.org/wiki/Aruba
+2 : For the country Afghanistan link - https://en.wikipedia.org/wiki/Afghanistan
+3 : For the country Angola link - https://en.wikipedia.org/wiki/Angola
+4 : For the country Anguilla link - https://en.wikipedia.org/wiki/Anguilla
+5 : For the country Åland Islands link - https://en.wikipedia.org/wiki/Åland_Islands
+6 : For the country Albania link - https://en.wikipedia.org/wiki/Albania
+7 : For the country Andorra link - https://en.wikipedia.org/wiki/Andorra
+8 : For the country United Arab Emirates link - https://en.wikipedia.org/wiki/United_Arab_Emirates
+9 : For the country Argentina link - https://en.wikipedia.org/wiki/Argentina
+10 : For the country Armenia link - https://en.wikipedia.org/wiki/Armenia
+11 : For the country American Samoa link - https://en.wikipedia.org/wiki/American_Samoa
+12 : For the country Antarctica link - https://en.wikipedia.org/wiki/Antarctica
+13 : For the country French Southern and Antarctic Lands link - https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands
+14 : For the country Antigua and Barbuda link - https://en.wikipedia.org/wiki/Antigua_and_Barbuda
+15 : For the country Australia link - https://en.wikipedia.org/wiki/Australia
+16 : For the country Austria link - https://en.wikipedia.org/wiki/Austria
+17 : For the country Azerbaijan link - https://en.wikipedia.org/wiki/Azerbaijan
+18 : For the country Burundi link - https://en.wikipedia.org/wiki/Burundi
+19 : For the country Belgium link - https://en.wikipedia.org/wiki/Belgium
+20 : For the country Benin link - https://en.wikipedia.org/wiki/Benin
+21 : For the country Burkina Faso link - https://en.wikipedia.org/wiki/Burkina_Faso
+22 : For the country Bangladesh link - https://en.wikipedia.org/wiki/Bangladesh
+23 : For the country Bulgaria link - https://en.wikipedia.org/wiki/Bulgaria
+24 : For the country Bahrain link - https://en.wikipedia.org/wiki/Bahrain
+25 : For the country Bahamas link - https://en.wikipedia.org/wiki/Bahamas
+26 : For the country Bosnia and Herzegovina link - https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+27 : For the country Saint Barthélemy link - https://en.wikipedia.org/wiki/Saint_Barthélemy
+28 : For the country Saint Helena, Ascension and Tristan da Cunha link - https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha
+29 : For the country Belarus link - https://en.wikipedia.org/wiki/Belarus
+30 : For the country Belize link - https://en.wikipedia.org/wiki/Belize
+31 : For the country Bermuda link - https://en.wikipedia.org/wiki/Bermuda
+32 : For the country Bolivia link - https://en.wikipedia.org/wiki/Bolivia
+33 : For the country Caribbean Netherlands link - https://en.wikipedia.org/wiki/Caribbean_Netherlands
+34 : For the country Brazil link - https://en.wikipedia.org/wiki/Brazil
+35 : For the country Barbados link - https://en.wikipedia.org/wiki/Barbados
+36 : For the country Brunei link - https://en.wikipedia.org/wiki/Brunei
+37 : For the country Bhutan link - https://en.wikipedia.org/wiki/Bhutan
+38 : For the country Bouvet Island link - https://en.wikipedia.org/wiki/Bouvet_Island
+39 : For the country Botswana link - https://en.wikipedia.org/wiki/Botswana
+40 : For the country Central African Republic link - https://en.wikipedia.org/wiki/Central_African_Republic
+41 : For the country Canada link - https://en.wikipedia.org/wiki/Canada
+42 : For the country Cocos (Keeling) Islands link - https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands
+43 : For the country Switzerland link - https://en.wikipedia.org/wiki/Switzerland
+44 : For the country Chile link - https://en.wikipedia.org/wiki/Chile
+45 : For the country China link - https://en.wikipedia.org/wiki/China
+46 : For the country Ivory Coast link - https://en.wikipedia.org/wiki/Ivory_Coast
+47 : For the country Cameroon link - https://en.wikipedia.org/wiki/Cameroon
+48 : For the country DR Congo link - https://en.wikipedia.org/wiki/DR_Congo
+49 : For the country Republic of the Congo link - https://en.wikipedia.org/wiki/Republic_of_the_Congo
+50 : For the country Cook Islands link - https://en.wikipedia.org/wiki/Cook_Islands
+51 : For the country Colombia link - https://en.wikipedia.org/wiki/Colombia
+52 : For the country Comoros link - https://en.wikipedia.org/wiki/Comoros
+53 : For the country Cape Verde link - https://en.wikipedia.org/wiki/Cape_Verde
+54 : For the country Costa Rica link - https://en.wikipedia.org/wiki/Costa_Rica
+55 : For the country Cuba link - https://en.wikipedia.org/wiki/Cuba
+56 : For the country Curaçao link - https://en.wikipedia.org/wiki/Curaçao
+57 : For the country Christmas Island link - https://en.wikipedia.org/wiki/Christmas_Island
+58 : For the country Cayman Islands link - https://en.wikipedia.org/wiki/Cayman_Islands
+59 : For the country Cyprus link - https://en.wikipedia.org/wiki/Cyprus
+60 : For the country Czechia link - https://en.wikipedia.org/wiki/Czechia
+61 : For the country Germany link - https://en.wikipedia.org/wiki/Germany
+62 : For the country Djibouti link - https://en.wikipedia.org/wiki/Djibouti
+63 : For the country Dominica link - https://en.wikipedia.org/wiki/Dominica
+64 : For the country Denmark link - https://en.wikipedia.org/wiki/Denmark
+65 : For the country Dominican Republic link - https://en.wikipedia.org/wiki/Dominican_Republic
+66 : For the country Algeria link - https://en.wikipedia.org/wiki/Algeria
+67 : For the country Ecuador link - https://en.wikipedia.org/wiki/Ecuador
+68 : For the country Egypt link - https://en.wikipedia.org/wiki/Egypt
+69 : For the country Eritrea link - https://en.wikipedia.org/wiki/Eritrea
+70 : For the country Western Sahara link - https://en.wikipedia.org/wiki/Western_Sahara
+71 : For the country Spain link - https://en.wikipedia.org/wiki/Spain
+72 : For the country Estonia link - https://en.wikipedia.org/wiki/Estonia
+73 : For the country Ethiopia link - https://en.wikipedia.org/wiki/Ethiopia
+74 : For the country Finland link - https://en.wikipedia.org/wiki/Finland
+75 : For the country Fiji link - https://en.wikipedia.org/wiki/Fiji
+76 : For the country Falkland Islands link - https://en.wikipedia.org/wiki/Falkland_Islands
+77 : For the country France link - https://en.wikipedia.org/wiki/France
+78 : For the country Faroe Islands link - https://en.wikipedia.org/wiki/Faroe_Islands
+79 : For the country Micronesia link - https://en.wikipedia.org/wiki/Micronesia
+80 : For the country Gabon link - https://en.wikipedia.org/wiki/Gabon
+81 : For the country United Kingdom link - https://en.wikipedia.org/wiki/United_Kingdom
+82 : For the country Georgia link - https://en.wikipedia.org/wiki/Georgia
+83 : For the country Guernsey link - https://en.wikipedia.org/wiki/Guernsey
+84 : For the country Ghana link - https://en.wikipedia.org/wiki/Ghana
+85 : For the country Gibraltar link - https://en.wikipedia.org/wiki/Gibraltar
+86 : For the country Guinea link - https://en.wikipedia.org/wiki/Guinea
+87 : For the country Guadeloupe link - https://en.wikipedia.org/wiki/Guadeloupe
+88 : For the country Gambia link - https://en.wikipedia.org/wiki/Gambia
+89 : For the country Guinea-Bissau link - https://en.wikipedia.org/wiki/Guinea-Bissau
+90 : For the country Equatorial Guinea link - https://en.wikipedia.org/wiki/Equatorial_Guinea
+91 : For the country Greece link - https://en.wikipedia.org/wiki/Greece
+92 : For the country Grenada link - https://en.wikipedia.org/wiki/Grenada
+93 : For the country Greenland link - https://en.wikipedia.org/wiki/Greenland
+94 : For the country Guatemala link - https://en.wikipedia.org/wiki/Guatemala
+95 : For the country French Guiana link - https://en.wikipedia.org/wiki/French_Guiana
+96 : For the country Guam link - https://en.wikipedia.org/wiki/Guam
+97 : For the country Guyana link - https://en.wikipedia.org/wiki/Guyana
+98 : For the country Hong Kong link - https://en.wikipedia.org/wiki/Hong_Kong
+99 : For the country Heard Island and McDonald Islands link - https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands
+100 : For the country Honduras link - https://en.wikipedia.org/wiki/Honduras
+101 : For the country Croatia link - https://en.wikipedia.org/wiki/Croatia
+102 : For the country Haiti link - https://en.wikipedia.org/wiki/Haiti
+103 : For the country Hungary link - https://en.wikipedia.org/wiki/Hungary
+104 : For the country Indonesia link - https://en.wikipedia.org/wiki/Indonesia
+105 : For the country Isle of Man link - https://en.wikipedia.org/wiki/Isle_of_Man
+106 : For the country India link - https://en.wikipedia.org/wiki/India
+107 : For the country British Indian Ocean Territory link - https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory
+108 : For the country Ireland link - https://en.wikipedia.org/wiki/Ireland
+109 : For the country Iran link - https://en.wikipedia.org/wiki/Iran
+110 : For the country Iraq link - https://en.wikipedia.org/wiki/Iraq
+111 : For the country Iceland link - https://en.wikipedia.org/wiki/Iceland
+112 : For the country Israel link - https://en.wikipedia.org/wiki/Israel
+113 : For the country Italy link - https://en.wikipedia.org/wiki/Italy
+114 : For the country Jamaica link - https://en.wikipedia.org/wiki/Jamaica
+115 : For the country Jersey link - https://en.wikipedia.org/wiki/Jersey
+116 : For the country Jordan link - https://en.wikipedia.org/wiki/Jordan
+117 : For the country Japan link - https://en.wikipedia.org/wiki/Japan
+118 : For the country Kazakhstan link - https://en.wikipedia.org/wiki/Kazakhstan
+119 : For the country Kenya link - https://en.wikipedia.org/wiki/Kenya
+120 : For the country Kyrgyzstan link - https://en.wikipedia.org/wiki/Kyrgyzstan
+121 : For the country Cambodia link - https://en.wikipedia.org/wiki/Cambodia
+122 : For the country Kiribati link - https://en.wikipedia.org/wiki/Kiribati
+123 : For the country Saint Kitts and Nevis link - https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis
+124 : For the country South Korea link - https://en.wikipedia.org/wiki/South_Korea
+125 : For the country Kosovo link - https://en.wikipedia.org/wiki/Kosovo
+126 : For the country Kuwait link - https://en.wikipedia.org/wiki/Kuwait
+127 : For the country Laos link - https://en.wikipedia.org/wiki/Laos
+128 : For the country Lebanon link - https://en.wikipedia.org/wiki/Lebanon
+129 : For the country Liberia link - https://en.wikipedia.org/wiki/Liberia
+130 : For the country Libya link - https://en.wikipedia.org/wiki/Libya
+131 : For the country Saint Lucia link - https://en.wikipedia.org/wiki/Saint_Lucia
+132 : For the country Liechtenstein link - https://en.wikipedia.org/wiki/Liechtenstein
+133 : For the country Sri Lanka link - https://en.wikipedia.org/wiki/Sri_Lanka
+134 : For the country Lesotho link - https://en.wikipedia.org/wiki/Lesotho
+135 : For the country Lithuania link - https://en.wikipedia.org/wiki/Lithuania
+136 : For the country Luxembourg link - https://en.wikipedia.org/wiki/Luxembourg
+137 : For the country Latvia link - https://en.wikipedia.org/wiki/Latvia
+138 : For the country Macau link - https://en.wikipedia.org/wiki/Macau
+139 : For the country Saint Martin link - https://en.wikipedia.org/wiki/Saint_Martin
+140 : For the country Morocco link - https://en.wikipedia.org/wiki/Morocco
+141 : For the country Monaco link - https://en.wikipedia.org/wiki/Monaco
+142 : For the country Moldova link - https://en.wikipedia.org/wiki/Moldova
+143 : For the country Madagascar link - https://en.wikipedia.org/wiki/Madagascar
+144 : For the country Maldives link - https://en.wikipedia.org/wiki/Maldives
+145 : For the country Mexico link - https://en.wikipedia.org/wiki/Mexico
+146 : For the country Marshall Islands link - https://en.wikipedia.org/wiki/Marshall_Islands
+147 : For the country North Macedonia link - https://en.wikipedia.org/wiki/North_Macedonia
+148 : For the country Mali link - https://en.wikipedia.org/wiki/Mali
+149 : For the country Malta link - https://en.wikipedia.org/wiki/Malta
+150 : For the country Myanmar link - https://en.wikipedia.org/wiki/Myanmar
+151 : For the country Montenegro link - https://en.wikipedia.org/wiki/Montenegro
+152 : For the country Mongolia link - https://en.wikipedia.org/wiki/Mongolia
+153 : For the country Northern Mariana Islands link - https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+154 : For the country Mozambique link - https://en.wikipedia.org/wiki/Mozambique
+155 : For the country Mauritania link - https://en.wikipedia.org/wiki/Mauritania
+156 : For the country Montserrat link - https://en.wikipedia.org/wiki/Montserrat
+157 : For the country Martinique link - https://en.wikipedia.org/wiki/Martinique
+158 : For the country Mauritius link - https://en.wikipedia.org/wiki/Mauritius
+159 : For the country Malawi link - https://en.wikipedia.org/wiki/Malawi
+160 : For the country Malaysia link - https://en.wikipedia.org/wiki/Malaysia
+161 : For the country Mayotte link - https://en.wikipedia.org/wiki/Mayotte
+162 : For the country Namibia link - https://en.wikipedia.org/wiki/Namibia
+163 : For the country New Caledonia link - https://en.wikipedia.org/wiki/New_Caledonia
+164 : For the country Niger link - https://en.wikipedia.org/wiki/Niger
+165 : For the country Norfolk Island link - https://en.wikipedia.org/wiki/Norfolk_Island
+166 : For the country Nigeria link - https://en.wikipedia.org/wiki/Nigeria
+167 : For the country Nicaragua link - https://en.wikipedia.org/wiki/Nicaragua
+168 : For the country Niue link - https://en.wikipedia.org/wiki/Niue
+169 : For the country Netherlands link - https://en.wikipedia.org/wiki/Netherlands
+170 : For the country Norway link - https://en.wikipedia.org/wiki/Norway
+171 : For the country Nepal link - https://en.wikipedia.org/wiki/Nepal
+172 : For the country Nauru link - https://en.wikipedia.org/wiki/Nauru
+173 : For the country New Zealand link - https://en.wikipedia.org/wiki/New_Zealand
+174 : For the country Oman link - https://en.wikipedia.org/wiki/Oman
+175 : For the country Pakistan link - https://en.wikipedia.org/wiki/Pakistan
+176 : For the country Panama link - https://en.wikipedia.org/wiki/Panama
+177 : For the country Pitcairn Islands link - https://en.wikipedia.org/wiki/Pitcairn_Islands
+178 : For the country Peru link - https://en.wikipedia.org/wiki/Peru
+179 : For the country Philippines link - https://en.wikipedia.org/wiki/Philippines
+180 : For the country Palau link - https://en.wikipedia.org/wiki/Palau
+181 : For the country Papua New Guinea link - https://en.wikipedia.org/wiki/Papua_New_Guinea
+182 : For the country Poland link - https://en.wikipedia.org/wiki/Poland
+183 : For the country Puerto Rico link - https://en.wikipedia.org/wiki/Puerto_Rico
+184 : For the country North Korea link - https://en.wikipedia.org/wiki/North_Korea
+185 : For the country Portugal link - https://en.wikipedia.org/wiki/Portugal
+186 : For the country Paraguay link - https://en.wikipedia.org/wiki/Paraguay
+187 : For the country Palestine link - https://en.wikipedia.org/wiki/Palestine
+188 : For the country French Polynesia link - https://en.wikipedia.org/wiki/French_Polynesia
+189 : For the country Qatar link - https://en.wikipedia.org/wiki/Qatar
+190 : For the country Réunion link - https://en.wikipedia.org/wiki/Réunion
+191 : For the country Romania link - https://en.wikipedia.org/wiki/Romania
+192 : For the country Russia link - https://en.wikipedia.org/wiki/Russia
+193 : For the country Rwanda link - https://en.wikipedia.org/wiki/Rwanda
+194 : For the country Saudi Arabia link - https://en.wikipedia.org/wiki/Saudi_Arabia
+195 : For the country Sudan link - https://en.wikipedia.org/wiki/Sudan
+196 : For the country Senegal link - https://en.wikipedia.org/wiki/Senegal
+197 : For the country Singapore link - https://en.wikipedia.org/wiki/Singapore
+198 : For the country South Georgia link - https://en.wikipedia.org/wiki/South_Georgia
+199 : For the country Svalbard and Jan Mayen link - https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen
+200 : For the country Solomon Islands link - https://en.wikipedia.org/wiki/Solomon_Islands
+201 : For the country Sierra Leone link - https://en.wikipedia.org/wiki/Sierra_Leone
+202 : For the country El Salvador link - https://en.wikipedia.org/wiki/El_Salvador
+203 : For the country San Marino link - https://en.wikipedia.org/wiki/San_Marino
+204 : For the country Somalia link - https://en.wikipedia.org/wiki/Somalia
+205 : For the country Saint Pierre and Miquelon link - https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon
+206 : For the country Serbia link - https://en.wikipedia.org/wiki/Serbia
+207 : For the country South Sudan link - https://en.wikipedia.org/wiki/South_Sudan
+208 : For the country São Tomé and Príncipe link - https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe
+209 : For the country Suriname link - https://en.wikipedia.org/wiki/Suriname
+210 : For the country Slovakia link - https://en.wikipedia.org/wiki/Slovakia
+211 : For the country Slovenia link - https://en.wikipedia.org/wiki/Slovenia
+212 : For the country Sweden link - https://en.wikipedia.org/wiki/Sweden
+213 : For the country Eswatini link - https://en.wikipedia.org/wiki/Eswatini
+214 : For the country Sint Maarten link - https://en.wikipedia.org/wiki/Sint_Maarten
+215 : For the country Seychelles link - https://en.wikipedia.org/wiki/Seychelles
+216 : For the country Syria link - https://en.wikipedia.org/wiki/Syria
+217 : For the country Turks and Caicos Islands link - https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands
+218 : For the country Chad link - https://en.wikipedia.org/wiki/Chad
+219 : For the country Togo link - https://en.wikipedia.org/wiki/Togo
+220 : For the country Thailand link - https://en.wikipedia.org/wiki/Thailand
+221 : For the country Tajikistan link - https://en.wikipedia.org/wiki/Tajikistan
+222 : For the country Tokelau link - https://en.wikipedia.org/wiki/Tokelau
+223 : For the country Turkmenistan link - https://en.wikipedia.org/wiki/Turkmenistan
+224 : For the country Timor-Leste link - https://en.wikipedia.org/wiki/Timor-Leste
+225 : For the country Tonga link - https://en.wikipedia.org/wiki/Tonga
+226 : For the country Trinidad and Tobago link - https://en.wikipedia.org/wiki/Trinidad_and_Tobago
+227 : For the country Tunisia link - https://en.wikipedia.org/wiki/Tunisia
+228 : For the country Turkey link - https://en.wikipedia.org/wiki/Turkey
+229 : For the country Tuvalu link - https://en.wikipedia.org/wiki/Tuvalu
+230 : For the country Taiwan link - https://en.wikipedia.org/wiki/Taiwan
+231 : For the country Tanzania link - https://en.wikipedia.org/wiki/Tanzania
+232 : For the country Uganda link - https://en.wikipedia.org/wiki/Uganda
+233 : For the country Ukraine link - https://en.wikipedia.org/wiki/Ukraine
+234 : For the country United States Minor Outlying Islands link - https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands
+235 : For the country Uruguay link - https://en.wikipedia.org/wiki/Uruguay
+236 : For the country United States link - https://en.wikipedia.org/wiki/United_States
+237 : For the country Uzbekistan link - https://en.wikipedia.org/wiki/Uzbekistan
+238 : For the country Vatican City link - https://en.wikipedia.org/wiki/Vatican_City
+239 : For the country Saint Vincent and the Grenadines link - https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines
+240 : For the country Venezuela link - https://en.wikipedia.org/wiki/Venezuela
+241 : For the country British Virgin Islands link - https://en.wikipedia.org/wiki/British_Virgin_Islands
+242 : For the country United States Virgin Islands link - https://en.wikipedia.org/wiki/United_States_Virgin_Islands
+243 : For the country Vietnam link - https://en.wikipedia.org/wiki/Vietnam
+244 : For the country Vanuatu link - https://en.wikipedia.org/wiki/Vanuatu
+245 : For the country Wallis and Futuna link - https://en.wikipedia.org/wiki/Wallis_and_Futuna
+246 : For the country Samoa link - https://en.wikipedia.org/wiki/Samoa
+247 : For the country Yemen link - https://en.wikipedia.org/wiki/Yemen
+248 : For the country South Africa link - https://en.wikipedia.org/wiki/South_Africa
+249 : For the country Zambia link - https://en.wikipedia.org/wiki/Zambia
+250 : For the country Zimbabwe link - https://en.wikipedia.org/wiki/Zimbabwe
